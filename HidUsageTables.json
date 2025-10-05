@@ -6,6 +6,66 @@
   "UsagePages": [
     {
       "Kind": "Defined",
+      "Id": 161,
+      "Name": "FireTV Custom 1",
+      "UsageIds": [
+        {
+          "Id": 0,
+          "Name": "App 1",
+          "Kinds": [
+            "Sel"
+          ]
+        }
+      ],
+      "UsageIdGenerator": null
+    },
+	{
+      "Kind": "Defined",
+      "Id": 162,
+      "Name": "FireTV Custom 2",
+      "UsageIds": [
+        {
+          "Id": 0,
+          "Name": "App 2",
+          "Kinds": [
+            "Sel"
+          ]
+        }
+      ],
+      "UsageIdGenerator": null
+    },
+	{
+      "Kind": "Defined",
+      "Id": 163,
+      "Name": "FireTV Custom 3",
+      "UsageIds": [
+        {
+          "Id": 0,
+          "Name": "App 3",
+          "Kinds": [
+            "Sel"
+          ]
+        }
+      ],
+      "UsageIdGenerator": null
+    },
+	{
+      "Kind": "Defined",
+      "Id": 164,
+      "Name": "FireTV Custom 4",
+      "UsageIds": [
+        {
+          "Id": 0,
+          "Name": "App 4",
+          "Kinds": [
+            "Sel"
+          ]
+        }
+      ],
+      "UsageIdGenerator": null
+    },
+    {
+      "Kind": "Defined",
       "Id": 145,
       "Name": "Arcade",
       "UsageIds": [
